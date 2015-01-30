@@ -7,6 +7,9 @@ OSM resources that I like
 http://resultmaps.neis-one.org/osm-changesets?comment=hms_gw#12/-17.8389/31.0759
 http://neis-one.org/
 
+(looking at history and changesets of features)
+On OpenStreetMap.org use the query button to view node history and changesets. This can be useful in telling what source was used during tracing.
+
 Bing Imagery Analyzer (Let's you browse dates of Bing Imagery)
 http://mvexel.dev.openstreetmap.org/bing/
 
