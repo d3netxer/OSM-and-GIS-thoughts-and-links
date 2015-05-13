@@ -25,3 +25,7 @@ https://mapzen.com/blog/metro-extracts-101
 
 GeoFabrik (OSM extractions)
 http://www.geofabrik.de/
+
+QGIS:
+Programmer's Guide
+http://pyqgis.org/book/contents/
