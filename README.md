@@ -29,6 +29,9 @@ http://www.geofabrik.de/
 Blake Girardot's JOSM training video
 https://www.youtube.com/watch?v=GOfTJ3QDQB4&feature=youtu.be
 
+Jim McAndrew's Leaflet tutorial
+http://loc8.us/maptime2015/#/
+
 QGIS:
 Programmer's Guide
 http://pyqgis.org/book/contents/
