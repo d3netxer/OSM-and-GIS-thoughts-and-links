@@ -1,7 +1,7 @@
 OSM_links
 =========
 
-OSM resources that I like
+OSM resources that I like.
 
 (visualizing changesets in the last 7 days)
 http://resultmaps.neis-one.org/osm-changesets?comment=hms_gw#12/-17.8389/31.0759
@@ -25,6 +25,9 @@ https://mapzen.com/blog/metro-extracts-101
 
 GeoFabrik (OSM extractions)
 http://www.geofabrik.de/
+
+Blake Girardot's JOSM training video
+https://www.youtube.com/watch?v=GOfTJ3QDQB4&feature=youtu.be
 
 QGIS:
 Programmer's Guide
