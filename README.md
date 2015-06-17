@@ -35,3 +35,6 @@ http://loc8.us/maptime2015/#/
 QGIS:
 Programmer's Guide
 http://pyqgis.org/book/contents/
+
+OpenTripPlanner:
+http://www.opentripplanner.org
