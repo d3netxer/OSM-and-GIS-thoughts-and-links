@@ -35,6 +35,13 @@ http://loc8.us/maptime2015/#/
 OSM Routing:
 https://github.com/Project-OSRM/osrm-backend
 
+####OSM cyling:
+
+Route planning:
+http://cycle.travel/map
+
+http://www.opencyclemap.org/
+
 QGIS:
 Programmer's Guide
 http://pyqgis.org/book/contents/
