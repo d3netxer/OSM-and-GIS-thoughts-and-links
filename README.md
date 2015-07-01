@@ -44,3 +44,20 @@ http://www.opentripplanner.org
 #####A smarter geospatial search that what is on OpenStreetMap.org
 -how can I search for objects in a place, or within the user's view? Ex. 'indoor pools in Washington D.C'
 
+###Understanding Vector Tiles
+
+generating vector tiles live from PostGIS:
+chubbs: https://github.com/spatialdev/PGRestAPI
+
+displaying vector tiles in leaflet:
+https://github.com/SpatialServer/Leaflet.MapboxVectorTile
+
+Mapbox vector tiles implementations: https://github.com/mapbox/vector-tile-spec/wiki/Implementations
+
+OSM 2 vector tiles:
+https://github.com/systemed/tilemaker
+
+Styling vector tiles:
+-Mapbox Studio
+-what else?
+
