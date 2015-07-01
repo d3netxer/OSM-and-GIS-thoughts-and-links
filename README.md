@@ -38,3 +38,9 @@ http://pyqgis.org/book/contents/
 
 OpenTripPlanner:
 http://www.opentripplanner.org
+
+###What I'm looking for
+
+#####A smarter geospatial search that what is on OpenStreetMap.org
+-how can I search for objects in a place, or within the user's view? Ex. 'indoor pools in Washington D.C'
+
