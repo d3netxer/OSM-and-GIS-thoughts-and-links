@@ -71,3 +71,10 @@ Styling vector tiles:
 -Mapbox Studio
 -what else?
 
+Good question on self-hosting vector tiles:
+http://gis.stackexchange.com/questions/125037/self-hosting-mapbox-vector-tiles
+
+hosting vector tiles:
+https://github.com/mapbox/tilelive.js
+
+
