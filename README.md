@@ -32,6 +32,9 @@ https://www.youtube.com/watch?v=GOfTJ3QDQB4&feature=youtu.be
 Jim McAndrew's Leaflet tutorial
 http://loc8.us/maptime2015/#/
 
+OSM Routing:
+https://github.com/Project-OSRM/osrm-backend
+
 QGIS:
 Programmer's Guide
 http://pyqgis.org/book/contents/
