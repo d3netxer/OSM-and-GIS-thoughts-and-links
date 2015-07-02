@@ -77,4 +77,12 @@ http://gis.stackexchange.com/questions/125037/self-hosting-mapbox-vector-tiles
 hosting vector tiles:
 https://github.com/mapbox/tilelive.js
 
+#####NGA stuff:
+######Map of The World:
+-http://trajectorymagazine.com/got-geoint/item/1647-nga-launches-map-of-the-world.html
+-https://www1.nga.mil/MediaRoom/LeadingStories/Pages/WashingtonMapSociety.aspx
+-http://www.afcea.org/content/?q=node/13903
+-http://www.nextgov.com/cloud-computing/2014/12/first-intelligence-agency-host-app-amazons-c2s-cloud/100851/
+
+
 
