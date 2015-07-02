@@ -86,3 +86,7 @@ https://github.com/mapbox/tilelive.js
 
 NYC Historical Maps:
 http://spacetime.nypl.org/
+
+NYPL Map Warper:
+http://dev.maps.nypl.org/warper/
+http://mapwarper.net/
