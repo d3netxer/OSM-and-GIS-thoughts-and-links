@@ -84,5 +84,5 @@ https://github.com/mapbox/tilelive.js
 -http://www.afcea.org/content/?q=node/13903
 -http://www.nextgov.com/cloud-computing/2014/12/first-intelligence-agency-host-app-amazons-c2s-cloud/100851/
 
-
-
+NYC Historical Maps:
+http://spacetime.nypl.org/
