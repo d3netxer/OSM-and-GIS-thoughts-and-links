@@ -1,7 +1,65 @@
-OSM_links
-=========
+# geospatial_app_feedback
+suggestions and feedback for a variety of geospatial applications
 
-OSM resources that I like.
+##Digital Globe EVWHS
+
+-Being able to download the shapefile of the imagery tile boundaries and extent before having to upload the whole strip to my library and download it. (fixed!!)
+-Being able to view and download imagery with false-color bands.   
+-Being able to upload or draw my own bounding box and search of imagery that is within it
+
+-add measurement tool
+
+
+##geojson.io
+
+-be able to drag and drop files to upload
+-be able to upload multiple files in a batch
+
+##HOT Tasking Manager
+
+
+##ID Editor
+
+-draw complex polygons
+
+##UMap
+
+-add measurement tool
+
+##CartoDB
+
+##OpenStreetMap
+
+#####I'm trying to remember an online mapping app. You could upload maps and georeference them online. There was also a time component to it as well. I think it was part of a thesis or dissertation. It is not OldMaps Online, Map Warp, or MetaCarta's MapRectifier.
+
+####Digital Gazatteer
+https://thinkwhere.wordpress.com/2015/01/19/a-digital-gazetteer-of-places-for-the-library-of-congress-and-the-nypl/
+
+###Mar Warper
+http://mapwarper.net/
+
+
+
+###What I want to read related to GIS
+
+
+Theoretical geography,
+William Bunge 1928- 1966
+Available at George Mason University Fenwick Stacks (G70.B8 T5 )
+
+-good summary by Goodchild (http://www.geog.ucsb.edu/~good/papers/450.pdf)
+
+####More on geospatial data standards for features and attribution
+-DGIWG
+-OpenStreetMap
+-WorldWide Geography Working group
+
+##What I read
+
+-HOOTENANNY: WEB ENABELED GEOSPATIAL VECTOR-DATA CONFLATION AND MAP GENERATION
+
+
+##OSM resources that I like.
 
 (visualizing changesets in the last 7 days)
 http://resultmaps.neis-one.org/osm-changesets?comment=hms_gw#12/-17.8389/31.0759
