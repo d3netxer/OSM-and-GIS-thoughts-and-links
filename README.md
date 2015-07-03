@@ -35,6 +35,9 @@ https://github.com/Project-OSRM/osrm-backend
 Downloading OSM coastlines and generalized data:
 http://openstreetmapdata.com/
 
+Information on OSM tags:
+https://taginfo.openstreetmap.org/
+
 ####OSM cyling:
 
 Route planning:
@@ -170,4 +173,7 @@ http://mobilitylab.org/2013/10/25/onebusaway-demo-app-offers-best-transit-info-y
 
 ####Digital Gazatteer
 https://thinkwhere.wordpress.com/2015/01/19/a-digital-gazetteer-of-places-for-the-library-of-congress-and-the-nypl/
+
+####Geo-Visualization
+http://www.imagico.de/
 
