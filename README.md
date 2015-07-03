@@ -159,3 +159,7 @@ Look into Tirimisu Transit app (http://www.tiramisutransit.com/t/livemap) and On
 ###Mobile city Fix-it apps
 http://www.codeforamerica.org/blog/2011/02/23/boston-citizens-connected/
 http://www.citysdk.eu/citysdk-challenge-build-best-cross-city-smart-participation-app-win-3000-euros/
+
+actually, OneBusAway is already open to partnering with Tirimisu and a beta has already been launched in Washington D.C.
+https://github.com/OneBusAway/onebusaway/wiki/OneBusAway-Deployments
+http://mobilitylab.org/2013/10/25/onebusaway-demo-app-offers-best-transit-info-yet-for-dc-users/
