@@ -75,7 +75,7 @@ suggestions and feedback for a variety of geospatial applications
 
 ####OpenStreetMap.org
 
--needs smart search
+-needs smart search (look into http://wiki.openstreetmap.org/wiki/Nominatim and TagInfo)
 
 
 ##What I want to read related to GIS
