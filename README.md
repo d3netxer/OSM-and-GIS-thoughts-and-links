@@ -86,6 +86,10 @@ Available at George Mason University Fenwick Stacks (G70.B8 T5 )
 
 -good summary by Goodchild (http://www.geog.ucsb.edu/~good/papers/450.pdf)
 
+https://www.techchange.org/online-courses/mhealth-mobile-phones-for-public-health/
+
+https://www.techchange.org/online-courses/mobiles-for-international-development/
+
 ####More on geospatial data standards for features and attribution
 -DGIWG
 -OpenStreetMap
