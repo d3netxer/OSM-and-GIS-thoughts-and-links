@@ -202,5 +202,8 @@ http://opentraffic.io/
 OpenTripPlanner
 http://www.opentripplanner.org/
 
+National Geospatial Advisory Committee, National Address Database:
+http://www.fgdc.gov/ngac/meetings/december-2012/NGAC%20National%20Address%20Database%20Paper.pdf
+
 GFTS:
 http://blog.openplans.org/2012/08/the-openplans-guide-to-gtfs-data/
