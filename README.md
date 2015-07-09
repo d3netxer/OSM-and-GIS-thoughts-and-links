@@ -13,9 +13,6 @@ http://mvexel.dev.openstreetmap.org/bing/
 Ant Bing Imagery Analyzer (Let's you see which areas have high-res Imagery)
 http://ant.dev.openstreetmap.org/bingimageanalyzer/
 
-Mapzen Vector Tile Services
-https://github.com/mapzen/vector-datasource/wiki/Mapzen-Vector-Tile-Service
-
 Mapzen Metro Extracts (City-sized parts of the OpenStreetMap database, served up weekly.)
 https://mapzen.com/metro-extracts/
 https://mapzen.com/blog/metro-extracts-101
@@ -42,8 +39,20 @@ https://taginfo.openstreetmap.org/
 
 Route planning:
 http://cycle.travel/map
-
 http://www.opencyclemap.org/
+
+##Vector Tiles
+
+Mapzen Vector Tile Services
+https://github.com/mapzen/vector-datasource/wiki/Mapzen-Vector-Tile-Service
+
+http://mike.teczno.com/notes/gl-solar-webgl-openstreetmap.html
+
+http://www.mkgeomatics.com/wordpress/?p=389
+
+http://mike.teczno.com/notes/postgreslessness-mapnik-vectiles.html
+
+https://www.mapbox.com/mapbox-gl/
 
 ## geospatial_app_feedback
 suggestions and feedback for a variety of geospatial applications
