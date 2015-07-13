@@ -221,3 +221,14 @@ http://blog.openplans.org/2012/08/the-openplans-guide-to-gtfs-data/
 
 http://gracegao.ae.illinois.edu/publications.html
 
+##Social Media: Geo-locating messages
+
+Samuel Lee Toepke, R. Scott Starsman
+Population Distribution Estimation of an Urban Area Using Crowd Sourced Data for Disaster Response
+http://iscram2015.uia.no/?p=1978
+
+Penn State
+http://www.geovista.psu.edu/
+
+SMART   HDMS @SDSU
+http://vision.sdsu.edu/hdma/smart
