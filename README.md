@@ -232,3 +232,30 @@ http://www.geovista.psu.edu/
 
 SMART   HDMS @SDSU
 http://vision.sdsu.edu/hdma/smart
+
+##OSM Scholarly Articles
+
+Recent Developments and Future Trends in Volunteered
+Geographic Information Research: The Case of OpenStreetMap
+Pascal Neis 1,* and Dennis Zielstra 2
+
+Assessing the Completeness of Bicycle Trail and Lane Features in OpenStreetMap for the
+United States
+Hartwig H. Hochmair1*, Dennis Zielstra1
+, Pascal Neis2
+
+Assessing the Effect of Data Imports on the Completeness
+of OpenStreetMap – A United States Case Study
+Dennis Zielstra,* Hartwig H. Hochmair* and Pascal Neis†
+
+The Street Network Evolution of Crowdsourced Maps:
+OpenStreetMap in Germany 2007–2011
+Pascal Neis 1,*, Dennis Zielstra 2
+and Alexander Zipf 1
+
+
+
+
+
+ 
+ 
