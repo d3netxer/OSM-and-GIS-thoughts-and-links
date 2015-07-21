@@ -253,7 +253,13 @@ OpenStreetMap in Germany 2007–2011
 Pascal Neis 1,*, Dennis Zielstra 2
 and Alexander Zipf 1
 
-
+##Map Stories
+Geo-report:
+https://github.com/crowdcover/geo-report
+ESRI Story Maps:
+http://storymaps.arcgis.com/en/
+Odessey.js:
+http://blog.cartodb.com/odyssey-js-new-open-source-tool-to-weave-interactive/
 
 
 
