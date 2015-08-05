@@ -53,6 +53,7 @@ http://www.mkgeomatics.com/wordpress/?p=389
 http://mike.teczno.com/notes/postgreslessness-mapnik-vectiles.html
 
 https://www.mapbox.com/mapbox-gl/
+https://www.mapbox.com/mapbox-gl-style-spec/
 
 ## geospatial_app_feedback
 suggestions and feedback for a variety of geospatial applications
