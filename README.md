@@ -264,5 +264,9 @@ http://blog.cartodb.com/odyssey-js-new-open-source-tool-to-weave-interactive/
 
 ###USGIF Publishes GEOINT Essential Body of Knowledge
 http://usgif.org/news/630-usgif-publishes-geoint-essential-body-of-knowledge
+
+##GIS on Mobiles:
+
+http://mousebird.github.io/WhirlyGlobe/
  
  
