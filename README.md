@@ -272,4 +272,7 @@ http://mousebird.github.io/WhirlyGlobe/
 ###geospatial games
 ####http://www.cnet.com/news/ingress-the-friendliest-turf-war-on-earth/
  
+ ##Drones
  
+ ###http://drones.newamerica.org/
+ ###http://drones.newamerica.org/primer/
