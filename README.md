@@ -268,5 +268,8 @@ http://usgif.org/news/630-usgif-publishes-geoint-essential-body-of-knowledge
 ##GIS on Mobiles:
 
 http://mousebird.github.io/WhirlyGlobe/
+
+###geospatial games
+####http://www.cnet.com/news/ingress-the-friendliest-turf-war-on-earth/
  
  
