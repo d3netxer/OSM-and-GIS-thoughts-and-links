@@ -301,3 +301,8 @@ Quality of OSM mainly depends on the contributer, both on their accuracy and the
 
 ###OSM Routing
 ####http://k1z.blog.uni-heidelberg.de/2015/07/17/openrouteservice-update/
+
+##OSM data fustion
+
+###OSM and Lidar
+####"Updating digital elevation models via change detection and fusion of human and remote sensor data in urban environments"
