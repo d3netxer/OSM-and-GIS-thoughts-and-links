@@ -285,3 +285,10 @@ http://mousebird.github.io/WhirlyGlobe/
 
 ###DHIS2
 ####https://www.dhis2.org/
+
+
+##OSM data quality
+
+####good exerpts from "Updating digital elevation models via change detection and fusion of human and remote sensor data in urban environments" p.156
+
+Quality of OSM mainly depends on the contributer, both on their accuracy and their experience. In general, the more mappers that are active in an areas the better the quality is supposed to be. Moreover some analysis resulted in higher coverage of data in urban areas. However, it was showed that further factors such as income can also influence the results. Therefore, it is not possible to make a universal statemetn about data covergage regarding urban or rural areas. Furthermore a study had a closer look at the spatio-temporal develpment of OSM contributions. For the specific situation of the city of Heidelberg, their prediction using cellular automata revealed that the density of contributions is linked to a certain land use type.
