@@ -298,3 +298,6 @@ Quality of OSM mainly depends on the contributer, both on their accuracy and the
 
 ###matching gps trajectories to street segments
 ####http://k1z.blog.uni-heidelberg.de/2015/08/10/matching-gps-trajectories-to-street-segments-an-open-source-implementation/
+
+###OSM Routing
+####http://k1z.blog.uni-heidelberg.de/2015/07/17/openrouteservice-update/
