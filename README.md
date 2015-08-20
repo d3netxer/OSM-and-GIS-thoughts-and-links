@@ -55,6 +55,8 @@ http://mike.teczno.com/notes/postgreslessness-mapnik-vectiles.html
 https://www.mapbox.com/mapbox-gl/
 https://www.mapbox.com/mapbox-gl-style-spec/
 
+Creation of VectorTiles: tilelive, tessera, mapbox studio
+
 ## geospatial_app_feedback
 suggestions and feedback for a variety of geospatial applications
 
