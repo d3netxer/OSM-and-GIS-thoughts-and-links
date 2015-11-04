@@ -1,4 +1,4 @@
-##OSM resources that I like.
+##OSM and GIS resources that I like.
 
 (visualizing changesets in the last 7 days)
 http://resultmaps.neis-one.org/osm-changesets?comment=hms_gw#12/-17.8389/31.0759
@@ -311,3 +311,5 @@ Quality of OSM mainly depends on the contributer, both on their accuracy and the
 
 ###create.io
 #### good for finding land parcels and information on a map
+
+www.geocollaborate.com
