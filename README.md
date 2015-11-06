@@ -313,3 +313,5 @@ Quality of OSM mainly depends on the contributer, both on their accuracy and the
 #### good for finding land parcels and information on a map
 
 www.geocollaborate.com
+
+MapCompare: http://tools.geofabrik.de/mc/
