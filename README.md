@@ -315,3 +315,8 @@ Quality of OSM mainly depends on the contributer, both on their accuracy and the
 www.geocollaborate.com
 
 MapCompare: http://tools.geofabrik.de/mc/
+
+##Education
+
+###ZOMBIE-BASED GEOGRAPHY
+####http://www.zombiebased.com/
