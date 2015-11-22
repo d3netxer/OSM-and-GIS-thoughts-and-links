@@ -320,3 +320,15 @@ MapCompare: http://tools.geofabrik.de/mc/
 
 ###ZOMBIE-BASED GEOGRAPHY
 ####http://www.zombiebased.com/
+
+##Natural Earth
+###http://www.naturalearthdata.com/
+####Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data
+
+##GDAM: database of Global Adminstrative Areas
+###http://www.gadm.org/
+
+##HighRes DEM
+###http://www.geo-airbusds.com/worlddem/
+
+
