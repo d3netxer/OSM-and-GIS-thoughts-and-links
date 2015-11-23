@@ -373,3 +373,6 @@ way[landuse="brownfield"]({{bbox}});
 out meta;
 >;
 out meta;
+
+###Overpass turbo query by date
+https://gist.github.com/aawiseman/ec55286c86d4612bc393
