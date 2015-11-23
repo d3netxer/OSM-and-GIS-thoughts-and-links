@@ -331,4 +331,45 @@ MapCompare: http://tools.geofabrik.de/mc/
 ##HighRes DEM
 ###http://www.geo-airbusds.com/worlddem/
 
+# OSM_data_exporting
+resources how to export OpenStreetMap data
 
+HOT export tool
+
+GeoFabric
+
+https://mapzen.com/metro-extracts/
+
+QGIS
+
+ERSI ARCGIS OSM toolbar
+
+###Overpass Turbo   http://overpass-turbo.eu/
+
+http://overpass-turbo.eu/
+
+query: IDP camps in Kathmandu (http://overpass-turbo.eu/s/9bw)
+
+/*
+idp camps kathmandu
+*/
+[out:xml][timeout:120];
+way[~"idp:"~"spontaneous_camp"]({{bbox}});
+// print results
+out meta;
+>;
+out meta;
+
+query: Severely damaged Areas
+
+http://overpass-turbo.eu/s/afO
+
+/*
+Severely damaged areas kathmandu
+*/
+[out:xml][timeout:120];
+way[landuse="brownfield"]({{bbox}});
+// print results
+out meta;
+>;
+out meta;
