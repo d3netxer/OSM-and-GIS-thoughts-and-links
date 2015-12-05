@@ -379,3 +379,8 @@ https://gist.github.com/aawiseman/ec55286c86d4612bc393
 
 ##Mapnificent shows you the area you can reach with public transport from any point in a given time.
 http://www.mapnificent.net/washington/
+
+###OSM BattleGrid
+####https://openstreetmap.us/2013/09/battlegrid/
+####This was an interesting concept, used to improve OSM data in the US from the Tiger import
+####What if we introduced a similiar concept but using high-res imagery to suggest areas to fix?
