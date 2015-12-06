@@ -404,3 +404,7 @@ http://www.mapnificent.net/washington/
 ##OSM Who's Around Me?
 ###http://neis-one.org/2013/01/
 ###It would be nice if it was calculated by nodes instead of changesets, and if it could have an option to go back further than 6 months
+
+##How did you contribute to OpenStreetMap?
+###http://hdyc.neis-one.org/
+###Provides user stats
