@@ -408,3 +408,8 @@ http://www.mapnificent.net/washington/
 ##How did you contribute to OpenStreetMap?
 ###http://hdyc.neis-one.org/
 ###Provides user stats
+
+##Good Articles
+
+###GeoSpatial: An Open Source Microcosm by Paul Ramsey
+###http://timreview.ca/node/234
