@@ -183,6 +183,21 @@ actually, OneBusAway is already open to partnering with Tirimisu and a beta has 
 https://github.com/OneBusAway/onebusaway/wiki/OneBusAway-Deployments
 http://mobilitylab.org/2013/10/25/onebusaway-demo-app-offers-best-transit-info-yet-for-dc-users/
 
+##GIS on Mobiles:
+
+http://mousebird.github.io/WhirlyGlobe/
+
+##Offline Mapping Apps
+
+###OSM Mobile Apps:
+
+####Maps.me
+
+####OsmAnd
+
+
+
+
 ##Other GIS things
 
 #####I'm trying to remember an online mapping app. You could upload maps and georeference them online. There was also a time component to it as well. I think it was part of a thesis or dissertation. It is not OldMaps Online, Map Warp, or MetaCarta's MapRectifier.
@@ -266,10 +281,6 @@ http://blog.cartodb.com/odyssey-js-new-open-source-tool-to-weave-interactive/
 
 ###USGIF Publishes GEOINT Essential Body of Knowledge
 http://usgif.org/news/630-usgif-publishes-geoint-essential-body-of-knowledge
-
-##GIS on Mobiles:
-
-http://mousebird.github.io/WhirlyGlobe/
 
 ###geospatial games
 ####http://www.cnet.com/news/ingress-the-friendliest-turf-war-on-earth/
