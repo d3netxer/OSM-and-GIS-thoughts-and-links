@@ -400,3 +400,7 @@ http://www.mapnificent.net/washington/
 
 ###Cygnus
 ###http://www.openstreetmap.org/user/mvexel/diary/36746
+
+##OSM Who's Around Me?
+###http://neis-one.org/2013/01/
+###It would be nice if it was calculated by nodes instead of changesets, and if it could have an option to go back further than 6 months
