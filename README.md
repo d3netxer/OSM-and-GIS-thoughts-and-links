@@ -271,6 +271,10 @@ OpenStreetMap in Germany 2007–2011
 Pascal Neis 1,*, Dennis Zielstra 2
 and Alexander Zipf 1
 
+Accessing the history of objects in OpenStreetMap
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wVs_9twAAAAJ&citation_for_view=wVs_9twAAAAJ:Y0pCki6q_DkC
+Peter Mooney, Padraig Corcoran
+
 ##Map Stories
 Geo-report:
 https://github.com/crowdcover/geo-report
