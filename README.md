@@ -172,6 +172,9 @@ Aditi Misra, Aaron Gooze, Kari Watkins, Mariam Asad, and Christopher A. Le Dante
 
 Look into Tirimisu Transit app (http://www.tiramisutransit.com/t/livemap) and OneBusAway (http://onebusaway.org/) app and see if a app that employs similiar ideas could work for DC
 
+###NextBus
+####http://nextbus.cubic.com/About/How-NextBus-Works
+
 ###Mobile city Fix-it apps
 http://www.codeforamerica.org/blog/2011/02/23/boston-citizens-connected/
 http://www.citysdk.eu/citysdk-challenge-build-best-cross-city-smart-participation-app-win-3000-euros/
