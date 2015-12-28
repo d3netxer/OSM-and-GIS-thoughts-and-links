@@ -174,6 +174,7 @@ Look into Tirimisu Transit app (http://www.tiramisutransit.com/t/livemap) and On
 
 ###NextBus
 ####http://nextbus.cubic.com/About/How-NextBus-Works
+####NextBus predictions inaccurate:  http://www.sfexaminer.com/nextbus-muni-predictions-inaccurate-during-commute-hours-almost-half-the-time-study-says/?utm_campaign=CartoDB&utm_content=25048299&utm_medium=social&utm_source=twitter 
 
 ###Mobile city Fix-it apps
 http://www.codeforamerica.org/blog/2011/02/23/boston-citizens-connected/
