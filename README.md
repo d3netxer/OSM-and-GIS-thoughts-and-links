@@ -282,6 +282,10 @@ Accessing the history of objects in OpenStreetMap
 https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wVs_9twAAAAJ&citation_for_view=wVs_9twAAAAJ:Y0pCki6q_DkC
 Peter Mooney, Padraig Corcoran
 
+The Annotation Process in OpenStreetMap
+http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9671.2012.01306.x/abstract
+Peter Mooney, Padraig Corcoran
+
 ##Map Stories
 Geo-report:
 https://github.com/crowdcover/geo-report
