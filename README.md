@@ -435,3 +435,9 @@ http://www.mapnificent.net/washington/
 
 ###MapBox Flood Map
 ####https://www.mapbox.com/blog/chennai-flood-map/
+
+###Satellite Imagery
+
+####Radiance and Relectance
+####http://www.exelisvis.com/Home/NewsUpdates/TabId/170/ArtMID/735/ArticleID/13592/Digital-Number-Radiance-and-Reflectance.aspx
+####http://www.seos-project.eu/modules/remotesensing/remotesensing-c01-p05.html
