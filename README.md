@@ -441,3 +441,6 @@ http://www.mapnificent.net/washington/
 ####Radiance and Relectance
 ####http://www.exelisvis.com/Home/NewsUpdates/TabId/170/ArtMID/735/ArticleID/13592/Digital-Number-Radiance-and-Reflectance.aspx
 ####http://www.seos-project.eu/modules/remotesensing/remotesensing-c01-p05.html
+
+###Ways to support mappers in other countries
+####http://exchanges.state.gov/non-us/program/community-solutions
