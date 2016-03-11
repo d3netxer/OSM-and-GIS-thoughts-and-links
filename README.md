@@ -229,6 +229,7 @@ https://www.firstmilegeo.com/
 ##Open data
 
 OpenAddresses
+https://openaddresses.io/
 
 OpenTraffic
 http://opentraffic.io/
