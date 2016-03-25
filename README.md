@@ -448,3 +448,8 @@ http://www.mapnificent.net/washington/
 
 ###Ways to support mappers in other countries
 ####http://exchanges.state.gov/non-us/program/community-solutions
+
+
+####THE CHANGING GEOSPATIAL LANDSCAPE A Second Look
+####A	Report	of	the	National	Geospatial	Advisory	Committee, December	2015
+####https://www.fgdc.gov/ngac/meetings/december-2015/the-changing-geospatial-landscape-second-look.pdf
