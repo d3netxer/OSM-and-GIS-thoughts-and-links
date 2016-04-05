@@ -12,6 +12,55 @@ On OpenStreetMap.org use the query button to view node history and changesets. T
 ### iOSMAnalyzer
 #### https://github.com/zehpunktbarron/iOSMAnalyzer
 
+### OSM BattleGrid
+#### https://openstreetmap.us/2013/09/battlegrid/
+#### This was an interesting concept, used to improve OSM data in the US from the Tiger import
+#### What if we introduced a similiar concept but using high-res imagery to suggest areas to fix?
+
+## OSM Who's Around Me?
+### http://neis-one.org/2013/01/
+### It would be nice if it was calculated by nodes instead of changesets, and if it could have an option to go back further than 6 months
+
+## How did you contribute to OpenStreetMap?
+### http://hdyc.neis-one.org/
+### Provides user stats
+
+#### MapCompare: view two basemaps at once
+##### http://tools.geofabrik.de/mc/
+
+###Overpass Turbo   http://overpass-turbo.eu/
+
+http://overpass-turbo.eu/
+
+query: IDP camps in Kathmandu (http://overpass-turbo.eu/s/9bw)
+
+/*
+idp camps kathmandu
+*/
+[out:xml][timeout:120];
+way[~"idp:"~"spontaneous_camp"]({{bbox}});
+// print results
+out meta;
+>;
+out meta;
+
+query: Severely damaged Areas
+
+http://overpass-turbo.eu/s/afO
+
+/*
+Severely damaged areas kathmandu
+*/
+[out:xml][timeout:120];
+way[landuse="brownfield"]({{bbox}});
+// print results
+out meta;
+>;
+out meta;
+
+### Overpass turbo query by date
+https://gist.github.com/aawiseman/ec55286c86d4612bc393
+
 Information on OSM tags:
 https://taginfo.openstreetmap.org/
 
@@ -24,6 +73,7 @@ Ant Bing Imagery Analyzer (Let's you see which areas have high-res Imagery)
 http://ant.dev.openstreetmap.org/bingimageanalyzer/
 
 ### OpenStreetMap Extracting Data
+resources how to export OpenStreetMap data
 
 Mapzen Metro Extracts (City-sized parts of the OpenStreetMap database, served up weekly.)
 https://mapzen.com/metro-extracts/
@@ -34,6 +84,13 @@ http://www.geofabrik.de/
 
 Downloading OSM coastlines and generalized data:
 http://openstreetmapdata.com/
+
+#### HOT export tool
+##### http://export.hotosm.org/en/
+
+#### QGIS
+
+#### ERSI ARCGIS OSM toolbar
 
 ### OpenStreetMap Training
 
@@ -49,6 +106,9 @@ http://loc8.us/maptime2015/#/
 #### http://k1z.blog.uni-heidelberg.de/2015/07/17/openrouteservice-update/
 
 https://github.com/Project-OSRM/osrm-backend
+
+## Mapnificent shows you the area you can reach with public transport from any point in a given time.
+http://www.mapnificent.net/washington/
 
 #### OSM cyling:
 
@@ -149,10 +209,12 @@ https://www.techchange.org/online-courses/mobiles-for-international-development/
 
 #### Compare OSMIUM and OSMOSIS
 
-## What I read
+## Conflation
 
 -HOOTENANNY: WEB ENABELED GEOSPATIAL VECTOR-DATA CONFLATION AND MAP GENERATION
 
+### Cygnus
+### http://www.openstreetmap.org/user/mvexel/diary/36746
 
 ## QGIS
 
@@ -334,7 +396,6 @@ http://usgif.org/news/630-usgif-publishes-geoint-essential-body-of-knowledge
 ### DHIS2
 #### https://www.dhis2.org/
 
-
 ## OSM data quality
 
 #### good exerpts from "Updating digital elevation models via change detection and fusion of human and remote sensor data in urban environments" p.156
@@ -354,9 +415,10 @@ Quality of OSM mainly depends on the contributer, both on their accuracy and the
 ### create.io
 #### good for finding land parcels and information on a map
 
-www.geocollaborate.com
+## Collaborative GIS
 
-MapCompare: http://tools.geofabrik.de/mc/
+### GeoCollaborate
+#### http://www.geocollaborate.com/ 
 
 ## Education
 
@@ -367,90 +429,29 @@ MapCompare: http://tools.geofabrik.de/mc/
 ### http://www.naturalearthdata.com/
 #### Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data
 
-## GDAM: database of Global Adminstrative Areas
-### http://www.gadm.org/
+## Admin Areas 
 
-## HighRes DEM
-### http://www.geo-airbusds.com/worlddem/
-
-# OSM_data_exporting
-resources how to export OpenStreetMap data
-
-HOT export tool
-
-GeoFabric
-
-https://mapzen.com/metro-extracts/
-
-QGIS
-
-ERSI ARCGIS OSM toolbar
-
-###Overpass Turbo   http://overpass-turbo.eu/
-
-http://overpass-turbo.eu/
-
-query: IDP camps in Kathmandu (http://overpass-turbo.eu/s/9bw)
-
-/*
-idp camps kathmandu
-*/
-[out:xml][timeout:120];
-way[~"idp:"~"spontaneous_camp"]({{bbox}});
-// print results
-out meta;
->;
-out meta;
-
-query: Severely damaged Areas
-
-http://overpass-turbo.eu/s/afO
-
-/*
-Severely damaged areas kathmandu
-*/
-[out:xml][timeout:120];
-way[landuse="brownfield"]({{bbox}});
-// print results
-out meta;
->;
-out meta;
-
-### Overpass turbo query by date
-https://gist.github.com/aawiseman/ec55286c86d4612bc393
-
-## Mapnificent shows you the area you can reach with public transport from any point in a given time.
-http://www.mapnificent.net/washington/
-
-### OSM BattleGrid
-#### https://openstreetmap.us/2013/09/battlegrid/
-#### This was an interesting concept, used to improve OSM data in the US from the Tiger import
-#### What if we introduced a similiar concept but using high-res imagery to suggest areas to fix?
-
-## Conflation
-
-### Cygnus
-### http://www.openstreetmap.org/user/mvexel/diary/36746
-
-## OSM Who's Around Me?
-### http://neis-one.org/2013/01/
-### It would be nice if it was calculated by nodes instead of changesets, and if it could have an option to go back further than 6 months
-
-## How did you contribute to OpenStreetMap?
-### http://hdyc.neis-one.org/
-### Provides user stats
+### GDAM: database of Global Adminstrative Areas
+#### http://www.gadm.org/
 
 ## Good Articles
 
 ### GeoSpatial: An Open Source Microcosm by Paul Ramsey
 ### http://timreview.ca/node/234
 
+#### THE CHANGING GEOSPATIAL LANDSCAPE A Second Look
+#### A	Report	of	the	National	Geospatial	Advisory	Committee, December	2015
+#### https://www.fgdc.gov/ngac/meetings/december-2015/the-changing-geospatial-landscape-second-look.pdf
+
 ## Flood Mapping
 
 ### MapBox Flood Map
 #### https://www.mapbox.com/blog/chennai-flood-map/
 
-### Satellite Imagery
+## Remote Sensing & Satellite Imagery
+
+## HighRes DEM
+### http://www.geo-airbusds.com/worlddem/
 
 #### Radiance and Relectance
 #### http://www.exelisvis.com/Home/NewsUpdates/TabId/170/ArtMID/735/ArticleID/13592/Digital-Number-Radiance-and-Reflectance.aspx
@@ -459,9 +460,7 @@ http://www.mapnificent.net/washington/
 ### Ways to support mappers in other countries
 #### http://exchanges.state.gov/non-us/program/community-solutions
 
+## Flood Modeling & Hydrography
 
-#### THE CHANGING GEOSPATIAL LANDSCAPE A Second Look
-#### A	Report	of	the	National	Geospatial	Advisory	Committee, December	2015
-#### https://www.fgdc.gov/ngac/meetings/december-2015/the-changing-geospatial-landscape-second-look.pdf
-
-
+### OpenSource tools to calculate Watersheds
+#### https://grasswiki.osgeo.org/wiki/Creating_watersheds 
