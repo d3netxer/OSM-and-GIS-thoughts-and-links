@@ -14,21 +14,21 @@ On OpenStreetMap.org use the query button to view node history and changesets. T
 
 ### OSM BattleGrid
 #### https://openstreetmap.us/2013/09/battlegrid/
-#### This was an interesting concept, used to improve OSM data in the US from the Tiger import
-#### What if we introduced a similiar concept but using high-res imagery to suggest areas to fix?
+This was an interesting concept, used to improve OSM data in the US from the Tiger import
+What if we introduced a similiar concept but using high-res imagery to suggest areas to fix?
 
 ## OSM Who's Around Me?
 ### http://neis-one.org/2013/01/
-### It would be nice if it was calculated by nodes instead of changesets, and if it could have an option to go back further than 6 months
+It would be nice if it was calculated by nodes instead of changesets, and if it could have an option to go back further than 6 months
 
 ## How did you contribute to OpenStreetMap?
 ### http://hdyc.neis-one.org/
-### Provides user stats
+Provides user stats
 
 #### MapCompare: view two basemaps at once
 ##### http://tools.geofabrik.de/mc/
 
-###Overpass Turbo   http://overpass-turbo.eu/
+### Overpass Turbo   http://overpass-turbo.eu/
 
 http://overpass-turbo.eu/
 
@@ -464,3 +464,7 @@ Quality of OSM mainly depends on the contributer, both on their accuracy and the
 
 ### OpenSource tools to calculate Watersheds
 #### https://grasswiki.osgeo.org/wiki/Creating_watersheds 
+
+### Crayfish QGIS plugin: 
+The Crayfish plugin aspires to be a complete set of pre- and post-processing tools for hydraulic modellers using TUFLOW, BASEMENT, ISIS 2D, Hydro_AS 2D, AnuGA and other modelling packages.
+#### http://www.lutraconsulting.co.uk/products/crayfish/wiki
