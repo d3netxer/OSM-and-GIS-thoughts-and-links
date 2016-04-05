@@ -226,7 +226,7 @@ Survey123
 ODK
 ####https://opendatakit.org/
 
-CaerusGEO
+First Mile Geo
 https://www.firstmilegeo.com/
 
 ##Open data
