@@ -9,6 +9,9 @@ http://neis-one.org/
 (looking at history and changesets of features)
 On OpenStreetMap.org use the query button to view node history and changesets. This can be useful in telling what source was used during tracing.
 
+### iOSMAnalyzer
+#### https://github.com/zehpunktbarron/iOSMAnalyzer
+
 Information on OSM tags:
 https://taginfo.openstreetmap.org/
 
@@ -41,6 +44,9 @@ Jim McAndrew's Leaflet tutorial
 http://loc8.us/maptime2015/#/
 
 ### OSM Routing:
+
+### OSM Routing
+#### http://k1z.blog.uni-heidelberg.de/2015/07/17/openrouteservice-update/
 
 https://github.com/Project-OSRM/osrm-backend
 
@@ -162,8 +168,8 @@ http://www.opentripplanner.org
 ##### A smarter geospatial search that what is on OpenStreetMap.org
 -how can I search for objects in a place, or within the user's view? Ex. 'indoor pools in Washington D.C'
 
-#####NGA stuff:
-######Map of The World:
+##### NGA stuff:
+###### Map of The World:
 -http://trajectorymagazine.com/got-geoint/item/1647-nga-launches-map-of-the-world.html
 -https://www1.nga.mil/MediaRoom/LeadingStories/Pages/WashingtonMapSociety.aspx
 -http://www.afcea.org/content/?q=node/13903
@@ -176,18 +182,18 @@ NYPL Map Warper:
 http://dev.maps.nypl.org/warper/
 http://mapwarper.net/
 
-###Transportation Mobile App
+### Transportation Mobile App
 
 got ideas from reading: Crowdsourcing and Its Application to Transportation Data Collection and Management
 Aditi Misra, Aaron Gooze, Kari Watkins, Mariam Asad, and Christopher A. Le Dantec
 
 Look into Tirimisu Transit app (http://www.tiramisutransit.com/t/livemap) and OneBusAway (http://onebusaway.org/) app and see if a app that employs similiar ideas could work for DC
 
-###NextBus
-####http://nextbus.cubic.com/About/How-NextBus-Works
-####NextBus predictions inaccurate:  http://www.sfexaminer.com/nextbus-muni-predictions-inaccurate-during-commute-hours-almost-half-the-time-study-says/?utm_campaign=CartoDB&utm_content=25048299&utm_medium=social&utm_source=twitter 
+### NextBus
+#### http://nextbus.cubic.com/About/How-NextBus-Works
+#### NextBus predictions inaccurate:  http://www.sfexaminer.com/nextbus-muni-predictions-inaccurate-during-commute-hours-almost-half-the-time-study-says/?utm_campaign=CartoDB&utm_content=25048299&utm_medium=social&utm_source=twitter 
 
-###Mobile city Fix-it apps
+### Mobile city Fix-it apps
 http://www.codeforamerica.org/blog/2011/02/23/boston-citizens-connected/
 http://www.citysdk.eu/citysdk-challenge-build-best-cross-city-smart-participation-app-win-3000-euros/
 http://www.chicagoworksapp.com/
@@ -198,32 +204,32 @@ actually, OneBusAway is already open to partnering with Tirimisu and a beta has 
 https://github.com/OneBusAway/onebusaway/wiki/OneBusAway-Deployments
 http://mobilitylab.org/2013/10/25/onebusaway-demo-app-offers-best-transit-info-yet-for-dc-users/
 
-##GIS on Mobiles:
+## GIS on Mobiles:
 
 http://mousebird.github.io/WhirlyGlobe/
 
-##Offline Mapping Apps
+## Offline Mapping Apps
 
-###OSM Mobile Apps:
+### OSM Mobile Apps:
 
-####Maps.me
+#### Maps.me
 
-####OsmAnd
-
-
+#### OsmAnd
 
 
-##Other GIS things
 
-#####I'm trying to remember an online mapping app. You could upload maps and georeference them online. There was also a time component to it as well. I think it was part of a thesis or dissertation. It is not OldMaps Online, Map Warp, or MetaCarta's MapRectifier.
 
-####Digital Gazatteer
+## Other GIS things
+
+##### I'm trying to remember an online mapping app. You could upload maps and georeference them online. There was also a time component to it as well. I think it was part of a thesis or dissertation. It is not OldMaps Online, Map Warp, or MetaCarta's MapRectifier.
+
+#### Digital Gazatteer
 https://thinkwhere.wordpress.com/2015/01/19/a-digital-gazetteer-of-places-for-the-library-of-congress-and-the-nypl/
 
-####Geo-Visualization
+#### Geo-Visualization
 http://www.imagico.de/
 
-##Surveys
+## Surveys
 
 Field Papers
 
@@ -231,16 +237,16 @@ OpenMapKit
 
 Survey123
 
-###Peace Corps Community Training Slides
-####https://docs.google.com/presentation/d/1j-Q-_GZNbLqhek52ZHmb8ZrowT8YsqYD5C68MBd0Gnk/edit#slide=id.gc347858b8_0_102
+### Peace Corps Community Training Slides
+#### https://docs.google.com/presentation/d/1j-Q-_GZNbLqhek52ZHmb8ZrowT8YsqYD5C68MBd0Gnk/edit#slide=id.gc347858b8_0_102
 
 ODK
-####https://opendatakit.org/
+#### https://opendatakit.org/
 
 First Mile Geo
 https://www.firstmilegeo.com/
 
-##Open data
+## Open data
 
 OpenAddresses
 https://openaddresses.io/
@@ -257,11 +263,11 @@ http://www.fgdc.gov/ngac/meetings/december-2012/NGAC%20National%20Address%20Data
 GFTS:
 http://blog.openplans.org/2012/08/the-openplans-guide-to-gtfs-data/
 
-##GPS
+## GPS
 
 http://gracegao.ae.illinois.edu/publications.html
 
-##Social Media: Geo-locating messages
+## Social Media: Geo-locating messages
 
 Samuel Lee Toepke, R. Scott Starsman
 Population Distribution Estimation of an Urban Area Using Crowd Sourced Data for Disaster Response
@@ -273,7 +279,7 @@ http://www.geovista.psu.edu/
 SMART   HDMS @SDSU
 http://vision.sdsu.edu/hdma/smart
 
-##OSM Scholarly Articles
+## OSM Scholarly Articles
 
 Recent Developments and Future Trends in Volunteered
 Geographic Information Research: The Case of OpenStreetMap
@@ -301,7 +307,7 @@ The Annotation Process in OpenStreetMap
 http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9671.2012.01306.x/abstract
 Peter Mooney, Padraig Corcoran
 
-##Map Stories
+## Map Stories
 Geo-report:
 https://github.com/crowdcover/geo-report
 ESRI Story Maps:
@@ -309,70 +315,63 @@ http://storymaps.arcgis.com/en/
 Odessey.js:
 http://blog.cartodb.com/odyssey-js-new-open-source-tool-to-weave-interactive/
 
-###USGIF Publishes GEOINT Essential Body of Knowledge
+### USGIF Publishes GEOINT Essential Body of Knowledge
 http://usgif.org/news/630-usgif-publishes-geoint-essential-body-of-knowledge
 
-###geospatial games
-####http://www.cnet.com/news/ingress-the-friendliest-turf-war-on-earth/
+### geospatial games
+#### http://www.cnet.com/news/ingress-the-friendliest-turf-war-on-earth/
  
- ##Drones
- 
- ###http://drones.newamerica.org/
- ###http://drones.newamerica.org/primer/
+##Drones
+### http://drones.newamerica.org/
+### http://drones.newamerica.org/primer/
 
-##Big Data
+## Big Data
 
-###Read up on Apache Spark
+### Read up on Apache Spark
 
-##Platforms
+## Platforms
 
-###DHIS2
-####https://www.dhis2.org/
+### DHIS2
+#### https://www.dhis2.org/
 
 
-##OSM data quality
+## OSM data quality
 
-####good exerpts from "Updating digital elevation models via change detection and fusion of human and remote sensor data in urban environments" p.156
+#### good exerpts from "Updating digital elevation models via change detection and fusion of human and remote sensor data in urban environments" p.156
 
 Quality of OSM mainly depends on the contributer, both on their accuracy and their experience. In general, the more mappers that are active in an areas the better the quality is supposed to be. Moreover some analysis resulted in higher coverage of data in urban areas. However, it was showed that further factors such as income can also influence the results. Therefore, it is not possible to make a universal statemetn about data covergage regarding urban or rural areas. Furthermore a study had a closer look at the spatio-temporal develpment of OSM contributions. For the specific situation of the city of Heidelberg, their prediction using cellular automata revealed that the density of contributions is linked to a certain land use type.
 
-####http://wiki.openstreetmap.org/wiki/Completeness
+#### http://wiki.openstreetmap.org/wiki/Completeness
 
-###iOSMAnalyzer
-####https://github.com/zehpunktbarron/iOSMAnalyzer
+### matching gps trajectories to street segments
+#### http://k1z.blog.uni-heidelberg.de/2015/08/10/matching-gps-trajectories-to-street-segments-an-open-source-implementation/
 
-###matching gps trajectories to street segments
-####http://k1z.blog.uni-heidelberg.de/2015/08/10/matching-gps-trajectories-to-street-segments-an-open-source-implementation/
+## OSM data fustion
 
-###OSM Routing
-####http://k1z.blog.uni-heidelberg.de/2015/07/17/openrouteservice-update/
+### OSM and Lidar
+#### "Updating digital elevation models via change detection and fusion of human and remote sensor data in urban environments"
 
-##OSM data fustion
-
-###OSM and Lidar
-####"Updating digital elevation models via change detection and fusion of human and remote sensor data in urban environments"
-
-###create.io
+### create.io
 #### good for finding land parcels and information on a map
 
 www.geocollaborate.com
 
 MapCompare: http://tools.geofabrik.de/mc/
 
-##Education
+## Education
 
-###ZOMBIE-BASED GEOGRAPHY
-####http://www.zombiebased.com/
+### ZOMBIE-BASED GEOGRAPHY
+#### http://www.zombiebased.com/
 
-##Natural Earth
-###http://www.naturalearthdata.com/
-####Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data
+## Natural Earth
+### http://www.naturalearthdata.com/
+#### Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales. Featuring tightly integrated vector and raster data
 
-##GDAM: database of Global Adminstrative Areas
-###http://www.gadm.org/
+## GDAM: database of Global Adminstrative Areas
+### http://www.gadm.org/
 
-##HighRes DEM
-###http://www.geo-airbusds.com/worlddem/
+## HighRes DEM
+### http://www.geo-airbusds.com/worlddem/
 
 # OSM_data_exporting
 resources how to export OpenStreetMap data
@@ -417,52 +416,52 @@ out meta;
 >;
 out meta;
 
-###Overpass turbo query by date
+### Overpass turbo query by date
 https://gist.github.com/aawiseman/ec55286c86d4612bc393
 
-##Mapnificent shows you the area you can reach with public transport from any point in a given time.
+## Mapnificent shows you the area you can reach with public transport from any point in a given time.
 http://www.mapnificent.net/washington/
 
-###OSM BattleGrid
-####https://openstreetmap.us/2013/09/battlegrid/
-####This was an interesting concept, used to improve OSM data in the US from the Tiger import
-####What if we introduced a similiar concept but using high-res imagery to suggest areas to fix?
+### OSM BattleGrid
+#### https://openstreetmap.us/2013/09/battlegrid/
+#### This was an interesting concept, used to improve OSM data in the US from the Tiger import
+#### What if we introduced a similiar concept but using high-res imagery to suggest areas to fix?
 
-##Conflation
+## Conflation
 
-###Cygnus
-###http://www.openstreetmap.org/user/mvexel/diary/36746
+### Cygnus
+### http://www.openstreetmap.org/user/mvexel/diary/36746
 
-##OSM Who's Around Me?
-###http://neis-one.org/2013/01/
-###It would be nice if it was calculated by nodes instead of changesets, and if it could have an option to go back further than 6 months
+## OSM Who's Around Me?
+### http://neis-one.org/2013/01/
+### It would be nice if it was calculated by nodes instead of changesets, and if it could have an option to go back further than 6 months
 
-##How did you contribute to OpenStreetMap?
-###http://hdyc.neis-one.org/
-###Provides user stats
+## How did you contribute to OpenStreetMap?
+### http://hdyc.neis-one.org/
+### Provides user stats
 
-##Good Articles
+## Good Articles
 
-###GeoSpatial: An Open Source Microcosm by Paul Ramsey
-###http://timreview.ca/node/234
+### GeoSpatial: An Open Source Microcosm by Paul Ramsey
+### http://timreview.ca/node/234
 
-##Flood Mapping
+## Flood Mapping
 
-###MapBox Flood Map
-####https://www.mapbox.com/blog/chennai-flood-map/
+### MapBox Flood Map
+#### https://www.mapbox.com/blog/chennai-flood-map/
 
-###Satellite Imagery
+### Satellite Imagery
 
-####Radiance and Relectance
-####http://www.exelisvis.com/Home/NewsUpdates/TabId/170/ArtMID/735/ArticleID/13592/Digital-Number-Radiance-and-Reflectance.aspx
-####http://www.seos-project.eu/modules/remotesensing/remotesensing-c01-p05.html
+#### Radiance and Relectance
+#### http://www.exelisvis.com/Home/NewsUpdates/TabId/170/ArtMID/735/ArticleID/13592/Digital-Number-Radiance-and-Reflectance.aspx
+#### http://www.seos-project.eu/modules/remotesensing/remotesensing-c01-p05.html
 
-###Ways to support mappers in other countries
-####http://exchanges.state.gov/non-us/program/community-solutions
+### Ways to support mappers in other countries
+#### http://exchanges.state.gov/non-us/program/community-solutions
 
 
-####THE CHANGING GEOSPATIAL LANDSCAPE A Second Look
-####A	Report	of	the	National	Geospatial	Advisory	Committee, December	2015
-####https://www.fgdc.gov/ngac/meetings/december-2015/the-changing-geospatial-landscape-second-look.pdf
+#### THE CHANGING GEOSPATIAL LANDSCAPE A Second Look
+#### A	Report	of	the	National	Geospatial	Advisory	Committee, December	2015
+#### https://www.fgdc.gov/ngac/meetings/december-2015/the-changing-geospatial-landscape-second-look.pdf
 
 
