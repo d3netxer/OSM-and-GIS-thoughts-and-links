@@ -471,3 +471,8 @@ Quality of OSM mainly depends on the contributer, both on their accuracy and the
 ### Crayfish QGIS plugin: 
 The Crayfish plugin aspires to be a complete set of pre- and post-processing tools for hydraulic modellers using TUFLOW, BASEMENT, ISIS 2D, Hydro_AS 2D, AnuGA and other modelling packages.
 #### http://www.lutraconsulting.co.uk/products/crayfish/wiki
+
+## Other Crowdsourcing platforms
+
+### http://www.inaturalist.org/
+### crowdsourcing observations in nature
