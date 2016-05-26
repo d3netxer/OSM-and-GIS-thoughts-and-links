@@ -476,3 +476,6 @@ The Crayfish plugin aspires to be a complete set of pre- and post-processing too
 
 ### http://www.inaturalist.org/
 ### crowdsourcing observations in nature
+
+### High-res change detection?
+#### what is out there? what is possible?
