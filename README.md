@@ -479,3 +479,6 @@ The Crayfish plugin aspires to be a complete set of pre- and post-processing too
 
 ### High-res change detection?
 #### what is out ther
+
+### CNS Project on Crowdsourced Imagery Analysis 
+#### http://www.geo4nonpro.org/#!about/cluw
