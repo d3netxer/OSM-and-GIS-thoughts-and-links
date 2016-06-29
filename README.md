@@ -482,3 +482,6 @@ The Crayfish plugin aspires to be a complete set of pre- and post-processing too
 
 ### CNS Project on Crowdsourced Imagery Analysis 
 #### http://www.geo4nonpro.org/#!about/cluw
+
+### OpenStreetMap as Infrastructure: Mikel Maron (SOTMUS 2014)
+https://www.youtube.com/watch?v=ztXQiy0iStI#t=17.500689
