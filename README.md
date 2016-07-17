@@ -38,9 +38,9 @@ https://taginfo.openstreetmap.org/
 ####OSM cyling:
 
 Route planning:
-http://cycle.travel/map
-http://www.opencyclemap.org/
-http://brouter.de/brouter-web/
+* http://cycle.travel/map
+* http://www.opencyclemap.org/
+* http://brouter.de/brouter-web/
 
 ##Vector Tiles
 
