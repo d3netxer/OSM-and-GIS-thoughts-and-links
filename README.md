@@ -485,3 +485,6 @@ The Crayfish plugin aspires to be a complete set of pre- and post-processing too
 
 ### OpenStreetMap as Infrastructure: Mikel Maron (SOTMUS 2014)
 https://www.youtube.com/watch?v=ztXQiy0iStI#t=17.500689
+
+## Mapillary
+### Mapillary Guide in OSM from MapBox: https://www.mapbox.com/blog/get-started-mapillary/
