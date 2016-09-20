@@ -488,3 +488,5 @@ https://www.youtube.com/watch?v=ztXQiy0iStI#t=17.500689
 
 ## Mapillary
 ### Mapillary Guide in OSM from MapBox: https://www.mapbox.com/blog/get-started-mapillary/
+
+### POSM OSM Replay Tool post: https://hi.stamen.com/merging-offline-edits-with-the-posm-replay-tool-2f39a4410d2a#.gaajvzett
