@@ -505,3 +505,5 @@ https://www.youtube.com/watch?v=ztXQiy0iStI#t=17.500689
 ### MapSchool.io
 http://mapschool.io/
 
+### MapHubs: https://maphubs.com/
+Tool for Sharing and Finding Maps
