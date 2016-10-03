@@ -493,3 +493,8 @@ https://www.youtube.com/watch?v=ztXQiy0iStI#t=17.500689
 
 ### For Printing Maps: http://maperitive.net/
 
+## Education
+
+### MapSchool.io
+http://mapschool.io/
+
