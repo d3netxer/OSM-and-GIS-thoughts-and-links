@@ -298,6 +298,9 @@ https://thinkwhere.wordpress.com/2015/01/19/a-digital-gazetteer-of-places-for-th
 #### Geo-Visualization
 http://www.imagico.de/
 
+#### TimeMapper
+http://timemapper.okfnlabs.org/
+
 ## Surveys
 
 Field Papers
