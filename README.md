@@ -190,6 +190,13 @@ suggestions and feedback for a variety of geospatial applications
 
 ## Satellite Imagery
 
+### Machine Learning and Imagery
+
+#### Google Machine Learning: https://www.engadget.com/2016/09/29/google-opens-up-its-machine-learning-tricks-to-all/
+
+#### SpaceNet on AWS: https://aws.amazon.com/public-data-sets/spacenet/ 
+SpaceNet is a corpus of commercial satellite imagery and labeled training data being made available at no cost to the public 
+
 ## What I want to read related to GIS
 
 Theoretical geography,
