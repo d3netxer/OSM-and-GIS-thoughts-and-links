@@ -510,3 +510,7 @@ http://mapschool.io/
 
 ### MapHubs: https://maphubs.com/
 Tool for Sharing and Finding Maps
+
+## Story Maps
+
+https://github.com/JackDougherty/leaflet-storymap
