@@ -9,6 +9,9 @@ http://neis-one.org/
 (looking at history and changesets of features)
 On OpenStreetMap.org use the query button to view node history and changesets. This can be useful in telling what source was used during tracing.
 
+### OSM Analytics
+#### http://osm-analytics.org/
+
 ### iOSMAnalyzer
 #### https://github.com/zehpunktbarron/iOSMAnalyzer
 
