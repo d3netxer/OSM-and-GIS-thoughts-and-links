@@ -12,6 +12,9 @@ On OpenStreetMap.org use the query button to view node history and changesets. T
 ### OSM Analytics
 #### http://osm-analytics.org/
 
+### ITO World Maps
+#### http://product.itoworld.com/map/
+
 ### iOSMAnalyzer
 #### https://github.com/zehpunktbarron/iOSMAnalyzer
 
