@@ -18,6 +18,9 @@ On OpenStreetMap.org use the query button to view node history and changesets. T
 ### iOSMAnalyzer
 #### https://github.com/zehpunktbarron/iOSMAnalyzer
 
+### Map Roulette
+#### http://www.maproulette.org/
+
 ### OSM BattleGrid
 #### https://openstreetmap.us/2013/09/battlegrid/
 This was an interesting concept, used to improve OSM data in the US from the Tiger import
