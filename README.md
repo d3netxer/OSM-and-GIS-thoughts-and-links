@@ -523,3 +523,12 @@ Tool for Sharing and Finding Maps
 ## Story Maps
 
 https://github.com/JackDougherty/leaflet-storymap
+
+# GeoNode
+
+Hypermap
+
+hh.worldmap.harvard.edu
+
+hypersearch.cga.terranodo.io
+
