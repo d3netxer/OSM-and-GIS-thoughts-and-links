@@ -532,3 +532,10 @@ hh.worldmap.harvard.edu
 
 hypersearch.cga.terranodo.io
 
+
+## Other Crowd Sourcing Platforms
+
+http://www.globalxplorer.org/
+
+https://www.tomnod.com/
+
