@@ -539,3 +539,9 @@ http://www.globalxplorer.org/
 
 https://www.tomnod.com/
 
+
+### URISA
+URISA is the founding member of the GIS Certification Institute (https://www.gisci.org/) and GIS Corps
+http://www.urisa.org/ 
+
+
