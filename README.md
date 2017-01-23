@@ -37,6 +37,9 @@ Provides user stats
 #### MapCompare: view two basemaps at once
 ##### http://tools.geofabrik.de/mc/
 
+### 50NorthSpatial (GIS Blog from Ukraine)
+http://www.50northspatial.org
+
 ### Overpass Turbo   http://overpass-turbo.eu/
 
 http://overpass-turbo.eu/
