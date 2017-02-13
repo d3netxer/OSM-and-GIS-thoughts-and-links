@@ -549,3 +549,7 @@ http://www.urisa.org/
 
 ### Crowdsourcing and Citizen Science Bill
 https://www.congress.gov/bill/114th-congress/senate-bill/3084/text#toc-idc675e4e0-f615-4d4a-8ad5-b9cc94092dde
+
+### State of Satellites
+http://landscape.satsummit.io/
+
