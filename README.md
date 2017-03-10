@@ -535,6 +535,7 @@ hh.worldmap.harvard.edu
 
 hypersearch.cga.terranodo.io
 
+http://drm.moha.gov.np/  (nepal geonode)
 
 ## Other Crowd Sourcing Platforms
 
