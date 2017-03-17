@@ -15,6 +15,11 @@ On OpenStreetMap.org use the query button to view node history and changesets. T
 ### ITO World Maps
 #### http://product.itoworld.com/map/
 
+## Validation
+
+### OpenStreetMap Improve
+http://improveosm.org
+
 ### iOSMAnalyzer
 #### https://github.com/zehpunktbarron/iOSMAnalyzer
 
