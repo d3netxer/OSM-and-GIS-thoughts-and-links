@@ -542,6 +542,8 @@ hypersearch.cga.terranodo.io
 
 http://drm.moha.gov.np/  (nepal geonode)
 
+http://geonode.geocenter.io/
+
 ## Other Crowd Sourcing Platforms
 
 http://www.globalxplorer.org/
