@@ -569,3 +569,7 @@ https://medium.com/planet-stories/a-gentle-introduction-to-gdal-part-1-a3253eb96
 
 ### MIT Senseable Lab
 http://senseable.mit.edu/
+
+### Zee Maps
+mapping lists
+https://www.zeemaps.com/
