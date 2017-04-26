@@ -584,3 +584,6 @@ https://wiki.openstreetmap.org/wiki/Microsoft_Building_Footprint_Data
 https://lists.openstreetmap.org/pipermail/imports/2017-March/004840.html
 https://wiki.openstreetmap.org/wiki/AI-Assisted_Road_Tracing
 
+### OpenGeoPortal
+http://data.opengeoportal.org/
+They also use SOLR and spatial search
