@@ -233,6 +233,9 @@ https://www.techchange.org/online-courses/mobiles-for-international-development/
 
 #### Compare OSMIUM and OSMOSIS
 
+### osm4j is a Java library for working with OpenStreetMap data. 
+http://jaryard.com/projects/osm4j/
+
 ## Conflation
 
 -HOOTENANNY: WEB ENABELED GEOSPATIAL VECTOR-DATA CONFLATION AND MAP GENERATION
