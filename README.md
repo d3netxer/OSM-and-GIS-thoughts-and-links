@@ -587,3 +587,6 @@ https://wiki.openstreetmap.org/wiki/AI-Assisted_Road_Tracing
 ### OpenGeoPortal
 http://data.opengeoportal.org/
 They also use SOLR and spatial search
+
+### Displaying other projections in MapBox GL
+https://developmentseed.org/blog/2016/12/15/dirty-reprojectors/
