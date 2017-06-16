@@ -593,3 +593,6 @@ They also use SOLR and spatial search
 
 ### Displaying other projections in MapBox GL
 https://developmentseed.org/blog/2016/12/15/dirty-reprojectors/
+
+### ogr2ogr: convert data between GeoJSON, PostGIS, and Esri Shapefile
+https://morphocode.com/using-ogr2ogr-convert-data-formats-geojson-postgis-esri-geodatabase-shapefiles/
