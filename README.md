@@ -596,3 +596,6 @@ https://developmentseed.org/blog/2016/12/15/dirty-reprojectors/
 
 ### ogr2ogr: convert data between GeoJSON, PostGIS, and Esri Shapefile
 https://morphocode.com/using-ogr2ogr-convert-data-formats-geojson-postgis-esri-geodatabase-shapefiles/
+
+### Global Urban Footprint
+https://www.technologyreview.com/s/608156/global-urban-footprint-revealed-in-unprecedented-resolution/
