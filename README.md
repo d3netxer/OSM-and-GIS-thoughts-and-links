@@ -599,3 +599,7 @@ https://morphocode.com/using-ogr2ogr-convert-data-formats-geojson-postgis-esri-g
 
 ### Global Urban Footprint
 https://www.technologyreview.com/s/608156/global-urban-footprint-revealed-in-unprecedented-resolution/
+
+### OSM Philly Food Map
+Case Study publication (Sterling Quinn) http://www.tandfonline.com.mutex.gmu.edu/doi/abs/10.1080/00330124.2015.1065547
+https://www.geovista.psu.edu/phillyfood/
