@@ -606,3 +606,9 @@ https://www.geovista.psu.edu/phillyfood/
 
 ### LandCover: CORINE Land Cover
 http://land.copernicus.eu/pan-european/corine-land-cover
+
+### Participatory GIS Training Kit
+http://pgis-tk-en.cta.int/videos/index.html
+
+### Participatory Three-dimensional Modelling PDF
+http://www.iapad.org/wp-content/uploads/2015/07/p3dm_english_web.pdf
