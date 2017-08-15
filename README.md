@@ -612,3 +612,7 @@ http://pgis-tk-en.cta.int/videos/index.html
 
 ### Participatory Three-dimensional Modelling PDF
 http://www.iapad.org/wp-content/uploads/2015/07/p3dm_english_web.pdf
+
+### Rasterfoundry
+Raster Foundry is an earth observation analysis tool to find, combine and analyze earth imagery at any scale, and share it on the web. 
+https://www.rasterfoundry.com/
