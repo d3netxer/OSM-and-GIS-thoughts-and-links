@@ -623,3 +623,7 @@ https://www.rasterfoundry.com/
 ## Azavea
 We have been stretching the possibilities of geospatial technology to enable our clients to answer complex questions in a wide range of domains: urban ecosystems, water, infrastructure planning, economic development, public transit, elections, public safety, energy, and cultural resources management, to name a few.
 https://www.azavea.com/work/
+
+### OpenLocate
+collecting location data on mobile
+#### https://blog.safegraph.com/introducing-openlocate-the-open-source-location-sdk-f5c5d2739a48
