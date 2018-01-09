@@ -627,3 +627,6 @@ https://www.azavea.com/work/
 ### OpenLocate
 collecting location data on mobile
 #### https://blog.safegraph.com/introducing-openlocate-the-open-source-location-sdk-f5c5d2739a48
+
+
+https://blog.insightdatascience.com/deep-learning-for-disaster-recovery-45c8cd174d7a
