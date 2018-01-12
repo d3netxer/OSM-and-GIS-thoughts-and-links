@@ -630,3 +630,6 @@ collecting location data on mobile
 
 
 https://blog.insightdatascience.com/deep-learning-for-disaster-recovery-45c8cd174d7a
+
+### How to commit to OSM-Carto
+http://www.openstreetmap.org/user/SomeoneElse/diary/43041
