@@ -633,3 +633,7 @@ https://blog.insightdatascience.com/deep-learning-for-disaster-recovery-45c8cd17
 
 ### How to commit to OSM-Carto
 http://www.openstreetmap.org/user/SomeoneElse/diary/43041
+
+
+#### You can find a geo bounding box easy with this boundng box tool:
+https://boundingbox.klokantech.com/
