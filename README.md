@@ -637,3 +637,6 @@ http://www.openstreetmap.org/user/SomeoneElse/diary/43041
 
 #### You can find a geo bounding box easy with this boundng box tool:
 https://boundingbox.klokantech.com/
+
+#### How to Serve Vector Map Tiles Locally with Tegola
+https://docs.google.com/presentation/d/1UvoS-R8UBLcKB3CFNBgCw5Gi0EBLAeknGIvzbZ04GQ0/edit#slide=id.g372f61354a_0_10
