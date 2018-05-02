@@ -405,8 +405,14 @@ Peter Mooney, Padraig Corcoran
 ## Map Stories
 Geo-report:
 https://github.com/crowdcover/geo-report
+
 ESRI Story Maps:
 http://storymaps.arcgis.com/en/
+
+### examples:
+Rohingya Story from UNHCR: https://unhcr.maps.arcgis.com/apps/Cascade/index.html?appid=5fdca0f47f1a46498002f39894fcd26f
+
+
 Odessey.js:
 http://blog.cartodb.com/odyssey-js-new-open-source-tool-to-weave-interactive/
 
