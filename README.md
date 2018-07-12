@@ -659,3 +659,5 @@ https://medium.com/carwow-product-engineering/sql-vs-pandas-how-to-balance-tasks
 https://github.com/szilard/benchm-databases
 #### A dive in spatial seach algorithms
 https://blog.mapbox.com/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a
+#### Geospatial Operations at Scale with Dask and Geopandas
+https://r-shekhar.github.io/posts/spatial-joins-geopandas-dask.html
