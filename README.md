@@ -650,3 +650,12 @@ https://docs.google.com/presentation/d/1UvoS-R8UBLcKB3CFNBgCw5Gi0EBLAeknGIvzbZ04
 ### Kepler.gl
 https://uber.github.io/kepler.gl/#/
 http://vis.academy/#/
+
+### Geospatial Database and algorithm considerations 
+
+#### PostgreSQL vs Pandas
+https://medium.com/carwow-product-engineering/sql-vs-pandas-how-to-balance-tasks-between-server-and-client-side-9e2f6c95677
+#### database benchmarks
+https://github.com/szilard/benchm-databases
+#### A dive in spatial seach algorithms
+https://blog.mapbox.com/a-dive-into-spatial-search-algorithms-ebd0c5e39d2a
