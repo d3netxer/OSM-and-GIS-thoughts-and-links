@@ -670,3 +670,9 @@ https://medium.com/@jeffandersen/building-a-node-js-rest-api-with-express-46b090
 
 ### https://www2.ed.gov/datastory/el-characteristics/index.html#intro
 uses hyperspace by pixelarity: https://pixelarity.com/hyperspace
+
+### printing maps
+https://maposmatic.osm-baustelle.de/new/
+
+### validation: OSMCha
+https://osmcha.mapbox.com/
