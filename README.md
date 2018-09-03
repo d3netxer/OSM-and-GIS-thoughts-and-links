@@ -676,3 +676,4 @@ https://maposmatic.osm-baustelle.de/new/
 
 ### validation: OSMCha
 https://osmcha.mapbox.com/
+-Osmose, KeepRight
