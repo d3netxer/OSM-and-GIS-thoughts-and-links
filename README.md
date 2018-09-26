@@ -133,8 +133,9 @@ http://www.mapnificent.net/washington/
 #### OSM cyling:
 
 Route planning:
-http://cycle.travel/map
-http://www.opencyclemap.org/
+* http://cycle.travel/map
+* http://www.opencyclemap.org/
+* http://brouter.de/brouter-web/
 
 
 ## Vector Tiles
