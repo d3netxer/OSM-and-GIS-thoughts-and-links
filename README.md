@@ -682,3 +682,7 @@ https://osmcha.mapbox.com/
 #### Traveling Salesman problem
 http://vroom-project.org/
 https://www.optaplanner.org/
+
+### StoryTelling
+
+https://www.nytimes.com/interactive/2014/07/03/world/middleeast/syria-iraq-isis-rogue-state-along-two-rivers.html 
