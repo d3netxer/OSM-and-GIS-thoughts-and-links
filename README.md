@@ -687,3 +687,8 @@ https://www.optaplanner.org/
 
 https://www.nytimes.com/interactive/2014/07/03/world/middleeast/syria-iraq-isis-rogue-state-along-two-rivers.html 
 http://dwtkns.com/portfolio/
+
+#### visualizing OSM attribution with IDly
+https://medium.com/@kepta/when-openstreetmap-met-mapbox-gl-idly-gl-c26ecfdad93c
+
+
