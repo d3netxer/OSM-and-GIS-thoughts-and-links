@@ -92,6 +92,10 @@ https://taginfo.openstreetmap.org/
 
 ### OpenStreetMap Analyzing Imagery
 
+now built into iD editor (use 'Ctrl+Shift+B' shortcut to bring up panel)(https://github.com/openstreetmap/iD/issues/2492)
+
+These previous services are down:
+
 Bing Imagery Analyzer (Let's you browse dates of Bing Imagery)
 http://mvexel.dev.openstreetmap.org/bing/
 
