@@ -702,3 +702,5 @@ http://dwtkns.com/portfolio/
 https://medium.com/@kepta/when-openstreetmap-met-mapbox-gl-idly-gl-c26ecfdad93c
 
 
+**Idea what if there was a tag-based pivot table you could create online? (ex. compare road classifications to widths and see if there is any correlation)
+
