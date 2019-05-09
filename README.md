@@ -704,3 +704,5 @@ https://medium.com/@kepta/when-openstreetmap-met-mapbox-gl-idly-gl-c26ecfdad93c
 
 **Idea what if there was a tag-based pivot table you could create online? (ex. compare road classifications to widths and see if there is any correlation)
 
+## Federating with CKAN
+In order to expose datasets, GeoNode uses Catalog Service for the Web (CSW), ESRI ArcGIS Online uses DCAT (https://www.w3.org/TR/vocab-dcat/). GeoPlatform can harvest from both (https://doc.arcgis.com/en/hub/data/federating-with-ckan.htm). 
