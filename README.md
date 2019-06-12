@@ -650,7 +650,6 @@ https://blog.insightdatascience.com/deep-learning-for-disaster-recovery-45c8cd17
 ### How to commit to OSM-Carto
 http://www.openstreetmap.org/user/SomeoneElse/diary/43041
 
-
 #### You can find a geo bounding box easy with this boundng box tool:
 https://boundingbox.klokantech.com/
 
@@ -706,3 +705,6 @@ https://medium.com/@kepta/when-openstreetmap-met-mapbox-gl-idly-gl-c26ecfdad93c
 
 ## Federating with CKAN
 In order to expose datasets, GeoNode uses Catalog Service for the Web (CSW), ESRI ArcGIS Online uses DCAT (https://www.w3.org/TR/vocab-dcat/). GeoPlatform can harvest from both (https://doc.arcgis.com/en/hub/data/federating-with-ckan.htm). 
+
+## Geosimulation (http://www.geosimulation.org/)
+Geosimulation is a catch-all phrase that can be used to represent a new wave of spatial simulation modeling that has come to the fore in very recent years.
