@@ -715,3 +715,6 @@ https://apps.apple.com/us/app/go-map/id592990211
 
 ### POSTGIS and vector tiles
 https://sparkgeo.com/blog/vector-tile-server-using-postgis/
+
+### Dev Seed and Urchn (Machine learning and OSM)
+https://medium.com/devseed/make-sense-of-urban-change-fabb9ff229d7
