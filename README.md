@@ -718,3 +718,8 @@ https://sparkgeo.com/blog/vector-tile-server-using-postgis/
 
 ### Dev Seed and Urchn (Machine learning and OSM)
 https://medium.com/devseed/make-sense-of-urban-change-fabb9ff229d7
+
+## QGIS dev shops
+- Kartoza
+- opengis.ch
+- source pole
