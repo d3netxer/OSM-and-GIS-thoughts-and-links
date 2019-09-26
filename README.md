@@ -726,3 +726,6 @@ https://medium.com/devseed/make-sense-of-urban-change-fabb9ff229d7
 
 ### design tools
 https://www.framer.com/development/
+
+### video animations
+https://www.google.com/earth/studio/
