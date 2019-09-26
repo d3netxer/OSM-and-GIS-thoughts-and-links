@@ -723,3 +723,6 @@ https://medium.com/devseed/make-sense-of-urban-change-fabb9ff229d7
 - Kartoza
 - opengis.ch
 - source pole
+
+### design tools
+https://www.framer.com/development/
