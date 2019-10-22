@@ -37,6 +37,10 @@ http://improveosm.org
 
 ### OSM BattleGrid
 #### https://openstreetmap.us/2013/09/battlegrid/
+
+### Routing
+Using osm2pgrouting
+https://www.hotosm.org/updates/using-open-source-tools-to-solve-routing-issues-for-solid-waste-collection-in-dar-es-salaam/
 This was an interesting concept, used to improve OSM data in the US from the Tiger import
 What if we introduced a similiar concept but using high-res imagery to suggest areas to fix?
 
