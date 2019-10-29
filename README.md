@@ -733,3 +733,11 @@ https://www.framer.com/development/
 
 ### video animations
 https://www.google.com/earth/studio/
+
+### OSM Express (OSMX)
+Here are some use cases that OSM Express fits well.
+- You want an offline copy of OpenStreetMap, which can be updated every day, hour or minute from the main openstreetmap.org database, instead of redownloading the entire planet.
+- You want to quickly access all OSM objects in a geographical region, such as as neighborhood, city or small country. For this use, https://protomaps.com/extracts/
+- You want to quickly look up OSM objects by ID, such as getting the height and name tags for a given way that represents a building, and construct geometries for ways and relations.
+- You want to embed a database that does any of the above, such as in a web application that returns OSM objects as GeoJSON.
+
