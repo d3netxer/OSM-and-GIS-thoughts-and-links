@@ -741,3 +741,8 @@ Here are some use cases that OSM Express fits well.
 - You want to quickly look up OSM objects by ID, such as getting the height and name tags for a given way that represents a building, and construct geometries for ways and relations.
 - You want to embed a database that does any of the above, such as in a web application that returns OSM objects as GeoJSON.
 
+# 3D Technology
+
+### GeoSim
+https://geosimcities.com/
+https://www.crunchbase.com/organization/geosim
