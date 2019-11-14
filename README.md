@@ -749,3 +749,6 @@ https://www.crunchbase.com/organization/geosim
 
 #### Vector Tiles and POSTGIS
 https://info.crunchydata.com/blog/dynamic-vector-tiles-from-postgis
+
+#### Identifying Gaps in OSM
+https://towardsdatascience.com/identifying-gaps-in-openstreetmap-coverage-through-machine-learning-257545c04330
