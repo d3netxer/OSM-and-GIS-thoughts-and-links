@@ -752,3 +752,6 @@ https://info.crunchydata.com/blog/dynamic-vector-tiles-from-postgis
 
 #### Identifying Gaps in OSM
 https://towardsdatascience.com/identifying-gaps-in-openstreetmap-coverage-through-machine-learning-257545c04330
+
+#### Good QGIS Python scripting course
+https://courses.spatialthoughts.com/pyqgis-in-a-day.html#print-layouts
