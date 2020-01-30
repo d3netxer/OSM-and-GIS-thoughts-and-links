@@ -755,3 +755,8 @@ https://towardsdatascience.com/identifying-gaps-in-openstreetmap-coverage-throug
 
 #### Good QGIS Python scripting course
 https://courses.spatialthoughts.com/pyqgis-in-a-day.html#print-layouts
+
+## OSM Research
+### OpenStreetMap in GIScience
+### Experiences, Research, and Applications
+https://www.google.com/books/edition/OpenStreetMap_in_GIScience/uHIKBwAAQBAJ?hl=en&gbpv=1&printsec=frontcover
