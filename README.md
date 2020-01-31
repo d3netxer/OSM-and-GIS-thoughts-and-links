@@ -576,7 +576,6 @@ http://www.globalxplorer.org/
 
 https://www.tomnod.com/
 
-
 ### URISA
 URISA is the founding member of the GIS Certification Institute (https://www.gisci.org/) and GIS Corps
 http://www.urisa.org/ 
@@ -760,3 +759,15 @@ https://courses.spatialthoughts.com/pyqgis-in-a-day.html#print-layouts
 ### OpenStreetMap in GIScience
 ### Experiences, Research, and Applications
 https://www.google.com/books/edition/OpenStreetMap_in_GIScience/uHIKBwAAQBAJ?hl=en&gbpv=1&printsec=frontcover
+
+# Networks and Graphs
+
+## peartree
+https://github.com/kuanb/peartree
+peartree is a library for converting GTFS feed schedules into a representative directed network graph. The tool uses Partridge to convert the target operator schedule data into Pandas dataframes and then NetworkX to hold the manipulated schedule data as a directed multigraph.
+
+## partridge
+https://github.com/remix/partridge
+A fast, forgiving GTFS reader built on pandas DataFrames
+
+
