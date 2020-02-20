@@ -546,6 +546,8 @@ https://www.youtube.com/watch?v=ztXQiy0iStI#t=17.500689
 
 ### For Printing Maps: http://maperitive.net/
 
+### For organizing projects: https://help.mapillary.com/hc/en-us/articles/360023629331-Capture-Projects-getting-started
+
 ## Education
 
 ### MapSchool.io
