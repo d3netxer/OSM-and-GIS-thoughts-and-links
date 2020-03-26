@@ -372,6 +372,11 @@ http://www.fgdc.gov/ngac/meetings/december-2012/NGAC%20National%20Address%20Data
 GFTS:
 http://blog.openplans.org/2012/08/the-openplans-guide-to-gtfs-data/
 
+## Open data Platforms
+
+Koordinates
+https://koordinates.com
+
 ## GPS
 
 http://gracegao.ae.illinois.edu/publications.html
@@ -772,4 +777,9 @@ peartree is a library for converting GTFS feed schedules into a representative d
 https://github.com/remix/partridge
 A fast, forgiving GTFS reader built on pandas DataFrames
 
+## Distributed Version Control
 
+Sno
+https://sno.earth/
+
+Geogig
