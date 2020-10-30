@@ -786,3 +786,8 @@ Geogig
 
 ## CartONG Leaderboard
 http://mapathon.cartong.org/
+
+
+# Quality
+### Lyft: Ground Truth Evaluation of OpenStreetMap Quality in North American Cities
+https://drive.google.com/file/d/1Sb-dOUjeP1Ljqz4ra931D3Pe8B5C3pde/view
