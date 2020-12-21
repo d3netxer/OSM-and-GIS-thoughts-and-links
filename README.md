@@ -791,3 +791,7 @@ http://mapathon.cartong.org/
 # Quality
 ### Lyft: Ground Truth Evaluation of OpenStreetMap Quality in North American Cities
 https://drive.google.com/file/d/1Sb-dOUjeP1Ljqz4ra931D3Pe8B5C3pde/view
+
+## geoBoundaries 3.0
+Admin boundaries for the world, by William and Mary
+https://www.wm.edu/as/data-science/researchlabs/geolab/get_data/geoboundaries/index.php
