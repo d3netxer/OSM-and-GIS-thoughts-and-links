@@ -798,3 +798,8 @@ https://www.wm.edu/as/data-science/researchlabs/geolab/get_data/geoboundaries/in
 
 ## Road Planning
 https://road-planning.devseed.com/
+
+## NightTime lights: World Bank
+https://registry.opendata.aws/wb-light-every-night/
+https://worldbank.github.io/OpenNightLights/tutorials/mod5_4_comparing_cities.html
+
