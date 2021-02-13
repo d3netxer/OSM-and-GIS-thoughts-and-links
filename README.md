@@ -805,3 +805,6 @@ https://worldbank.github.io/OpenNightLights/tutorials/mod5_4_comparing_cities.ht
 
 ### WSF-Evolution
 https://ui.adsabs.harvard.edu/abs/2018AGUFMIN44A..06M/abstract
+
+## Routing engines
+https://github.com/conveyal/r5
