@@ -808,3 +808,5 @@ https://ui.adsabs.harvard.edu/abs/2018AGUFMIN44A..06M/abstract
 
 ## Routing engines
 https://github.com/conveyal/r5
+
+ESRI 2020 Land Cover: https://www.arcgis.com/home/item.html?id=d6642f8a4f6d4685a24ae2dc0c73d4ac 
