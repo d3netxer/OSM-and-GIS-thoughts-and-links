@@ -822,3 +822,5 @@ Mapping America’s wicked weather and deadly disasters:
 https://www.washingtonpost.com/graphics/2019/national/mapping-disasters/
 BORDERLINE: Navigating the invisible boundary and physical barriers that define the U.S.-Mexico border
 https://www.washingtonpost.com/graphics/2018/national/us-mexico-border-flyover/
+Good examples from the Washington Post here: https://www.washingtonpost.com/graphics/2018/ns/best-graphics/
+ -you can also click on the different Graphics reporters
