@@ -812,3 +812,13 @@ https://github.com/conveyal/r5
 ESRI 2020 Land Cover: https://www.arcgis.com/home/item.html?id=d6642f8a4f6d4685a24ae2dc0c73d4ac 
 
 scikit-mobility is a library for human mobility analysis in Python: https://github.com/scikit-mobility/scikit-mobility
+
+#### Example story maps and news with maps:
+Rohingya Refugee Emergency at a Glance: The influx to Bangladesh is one of the largest and fastest-growing refugee crises in decades
+https://unhcr.maps.arcgis.com/apps/Cascade/index.html?appid=5fdca0f47f1a46498002f39894fcd26f
+America is more diverse than ever — but still segregated:
+https://www.washingtonpost.com/graphics/2018/national/segregation-us-cities/
+Mapping America’s wicked weather and deadly disasters:
+https://www.washingtonpost.com/graphics/2019/national/mapping-disasters/
+BORDERLINE: Navigating the invisible boundary and physical barriers that define the U.S.-Mexico border
+https://www.washingtonpost.com/graphics/2018/national/us-mexico-border-flyover/
