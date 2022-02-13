@@ -834,3 +834,6 @@ https://pygis.io/docs/e_raster_resample.html
 
 #### Online GIS and Python courses
 -PyGIS: https://github.com/mmann1123/pyGIS
+
+#### GeoWombat: https://geowombat.readthedocs.io/en/latest/index.html 
+open geospatial rasters as chunked Dask arrays
