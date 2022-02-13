@@ -828,3 +828,9 @@ Good examples from the Washington Post here: https://www.washingtonpost.com/grap
 
 #### OSM in Government
 https://osm.gs.mil/
+
+#### GIS rater aligning/co-registering/re-sampling
+https://pygis.io/docs/e_raster_resample.html 
+
+#### Online GIS and Python courses
+-PyGIS: https://github.com/mmann1123/pyGIS
