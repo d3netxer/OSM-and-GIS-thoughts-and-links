@@ -837,3 +837,6 @@ https://pygis.io/docs/e_raster_resample.html
 
 #### GeoWombat: https://geowombat.readthedocs.io/en/latest/index.html 
 open geospatial rasters as chunked Dask arrays
+
+https://s2maps.eu/
+Sentinel imagery service cloudless
