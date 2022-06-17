@@ -840,3 +840,6 @@ open geospatial rasters as chunked Dask arrays
 
 https://s2maps.eu/
 Sentinel imagery service cloudless
+
+https://disaster.ninja/
+-population dataset to help humanitarian mappers
