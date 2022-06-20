@@ -843,3 +843,6 @@ Sentinel imagery service cloudless
 
 https://disaster.ninja/
 -population dataset to help humanitarian mappers
+
+https://www.gdacs.org/
+-GDACS is a cooperation framework between the United Nations, the European Commission and disaster managers worldwide to improve alerts, information exchange and coordination in the first phase after major sudden-onset disasters.
