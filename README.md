@@ -1,5 +1,7 @@
 # OSM and GIS resources that I like.
 
+deck.gl gallary: https://deck.gl/gallery/ 
+
 #### on using H3 Hexagons: https://carto.com/blog/hexagons-for-location-intelligence/ 
 
 ### OpenStreetMap Metrics and Visualization
