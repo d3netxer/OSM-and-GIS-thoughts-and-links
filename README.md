@@ -1,5 +1,7 @@
 # OSM and GIS resources that I like.
 
+#### on using H3 Hexagons: https://carto.com/blog/hexagons-for-location-intelligence/ 
+
 ### OpenStreetMap Metrics and Visualization
 
 (visualizing changesets in the last 7 days)
