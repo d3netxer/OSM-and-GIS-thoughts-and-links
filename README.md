@@ -853,3 +853,6 @@ https://www.gdacs.org/
 
 ## AI-mapping
 https://geoalert.io/ 
+
+## World Atlas on Desertification
+https://wad.jrc.ec.europa.eu/#about 
